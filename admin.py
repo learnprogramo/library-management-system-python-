@@ -1,7 +1,7 @@
 #jaydeep dahiwal Project
 from tkinter import *
 import backend
-
+#tomorrow i'm going to give the session on git commit and build
 class admin:
         def __init__(self,window):
             self.window = window

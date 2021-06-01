@@ -5,7 +5,7 @@ import login_backend
 #creating login page along with the register page.
 class login:
      def __init__(self,window):
-
+#Hello rajat and Divya i'm ready
         self.window = window
         self.flag = 0
 
