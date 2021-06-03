@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import ttk, messagebox
 import backend
-
+#Hello im going to give session for first time.
 class student:
         def __init__(self,window):
             self.window = window
